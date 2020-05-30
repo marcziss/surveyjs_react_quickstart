@@ -4,10 +4,12 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "ckeditor": "^4.12.1",
     "jquery": "^3.3.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4",
+    "showdown": "^1.9.1",
     "survey-react": "latest",
     "survey-creator": "latest",
     "surveyjs-widgets": "latest",
